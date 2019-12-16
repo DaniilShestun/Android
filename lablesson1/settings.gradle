@@ -1,2 +1,0 @@
-include ':app', ':layouttype'
-rootProject.name='lablesson1'
